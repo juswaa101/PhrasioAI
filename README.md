@@ -2,7 +2,7 @@
 
 1. Clone the repository by typing in your terminal:
 
--   git clone https://github.com/juswaa101/e-commerce-master.git
+-   git clone https://github.com/juswaa101/PhrasioAI.git
 
 2. Make Sure You Have Composer Installed and Php to run this project, if you dont have one click the link below to install.
 
