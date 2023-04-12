@@ -14,7 +14,7 @@
 3. In .env file, find OPENAI_API_KEY and copy your own api key
 - where to provide api key? go to https://platform.openai.com/account/api-keys, create your new secret key and copy the provided key and paste it in the env.
 
-5. Run the project by typing php artisan serve.
+5. Run the project by typing php artisan serve and npm run dev.
 
 6. Open browser and type localhost:8000
 

@@ -10,10 +10,10 @@
 </head>
 
 <body>
-    <div class="relative flex items-center justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0"
+    <div class="relative flex items-center justify-center min-h-screen bg-gray-100 sm:items-center py-4 sm:pt-0"
         id="loader">
         <div class="max-w-6xl w-full mx-auto sm:px-6 lg:px-8 space-y-4 py-4">
-            <div class="text-center text-gray-800 dark:text-gray-300 py-4">
+            <div class="text-center text-gray-800 py-4">
                 <div class="inline-block h-8 w-8 animate-[spinner-grow_0.75s_linear_infinite] rounded-full bg-current align-[-0.125em] text-primary opacity-0 motion-reduce:animate-[spinner-grow_1.5s_linear_infinite]"
                     role="status">
                     <span
